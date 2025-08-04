@@ -1,0 +1,10 @@
+streamlit
+langchain
+langchain-groq
+whisper
+torch
+transformers
+sentence-transformers
+faiss-cpu
+fpdf
+python-dotenv
